@@ -1,5 +1,4 @@
 #### Here to look for codes? Sorry we dont deal with codes here. 
-  [![Visits Badge](www.corpsols.org)](www.corpsols.org)
   
   - 🔭 I’m currently working as a software developer in <a href="www.corpsols.org">CorpSols</a>
   - 🌱 I’m currently kearning front end web developer!
